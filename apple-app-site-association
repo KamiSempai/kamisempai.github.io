@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "S2SNAT4H6R.com.riskpointer.workpilots",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
